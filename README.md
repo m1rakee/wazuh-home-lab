@@ -86,3 +86,17 @@ Virtualized lab environment used for testing and learning.
 - Learn Windows Server administration
 - Learn security monitoring
 - Build practical cybersecurity experience
+
+## Screenshots
+
+### VirtualBox Environment
+
+![VirtualBox Environment](screenshots/Virtualbox%20Environment.png)
+
+### Ubuntu Server
+
+![Ubuntu Server](screenshots/Ubuntu%20Server.png)
+
+### Windows Server 2025
+
+![Windows Server 2025](screenshots/Windows%20Server%202025.png)
