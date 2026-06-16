@@ -91,12 +91,12 @@ Virtualized lab environment used for testing and learning.
 
 ### VirtualBox Environment
 
-![VirtualBox Environment](screenshots/Virtualbox%20Environment.png)
+![VirtualBox Environment](screenshots/Virtualbox%20Environment)
 
 ### Ubuntu Server
 
-![Ubuntu Server](screenshots/Ubuntu%20Server.png)
+![Ubuntu Server](screenshots/Ubuntu%20Server)
 
 ### Windows Server 2025
 
-![Windows Server 2025](screenshots/Windows%20Server%202025.png)
+![Windows Server 2025](screenshots/Windows%20Server%202025)
